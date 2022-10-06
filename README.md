@@ -23,5 +23,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 applications.
 
 - 💬 Ask me about anything, I am happy to help.
-- 
+
 - :mailbox:How to reach me: jarobak1995@gmail.com
